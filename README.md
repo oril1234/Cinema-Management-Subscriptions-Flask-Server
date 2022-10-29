@@ -7,7 +7,6 @@ This respository is of one of 2 cinema management system servers that provides 3
 The server operates against 3 data sources
 1. JSON placeholder web service from which initial data of movies and members is fetched, and then stored in Mongo data base of subscriptions
 2. Mongo data base that as mentioned above stores and handles data collections of movies, members, as well as the subscriptions themselves to movies by members.
-Below is the architecture of the server
 
 The server consists of 4 layers:
 1. Main - The module that is the first to receive API calls
@@ -18,7 +17,7 @@ Below is the architecture of the server
 
 
 Below is the architecture of the server as described above:
-![diagram drawio (4)](https://user-images.githubusercontent.com/49225452/198852068-eb0f14aa-81f5-4e8b-b396-f68519a73ccd.png)
+![diagram drawio (5)](https://user-images.githubusercontent.com/49225452/198852210-f3dfe77c-855e-4903-8944-08e1f64d9bf6.png)
 
 ### Requirements
 Python 3.8.+
