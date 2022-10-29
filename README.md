@@ -20,4 +20,11 @@ Below is the architecture of the server
 Below is the architecture of the server as described above:
 ![diagram drawio (4)](https://user-images.githubusercontent.com/49225452/198852068-eb0f14aa-81f5-4e8b-b396-f68519a73ccd.png)
 
+### Requirements
+Python 3.8.+
+
+### Install Requirements
+- pip install requests
+- pip install pymongo
+
 
