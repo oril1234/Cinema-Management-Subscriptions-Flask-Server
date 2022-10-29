@@ -25,4 +25,4 @@ Python 3.8.+
 - pip install requests
 - pip install pymongo
 
-<a href="doc:introduction" target="_blank">Introduction</a>
+<a href="[doc:introduction](https://docs.readme.com/docs/linking-to-pages)" target="_blank">Introduction</a>
