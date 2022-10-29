@@ -18,6 +18,6 @@ Below is the architecture of the server
 
 
 Below is the architecture of the server as described above:
-![diagram drawio (3)](https://user-images.githubusercontent.com/49225452/198851872-973235d5-9715-481a-ae9f-f7cb0c80dda9.png)
+![diagram drawio (4)](https://user-images.githubusercontent.com/49225452/198852068-eb0f14aa-81f5-4e8b-b396-f68519a73ccd.png)
 
 
