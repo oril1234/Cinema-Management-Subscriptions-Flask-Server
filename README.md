@@ -25,4 +25,3 @@ Python 3.8.+
 - pip install requests
 - pip install pymongo
 
-https://twitter.com/home?lang=eng 
