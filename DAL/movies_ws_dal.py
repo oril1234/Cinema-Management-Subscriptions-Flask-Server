@@ -5,7 +5,7 @@ class MoviesWSDal:
     def __init__(self):
 
         #URL og JSON placeholder
-        self.__url = "https://jsonplaceholder.typicode.com/users"
+        self.__url = "https://api.tvmaze.com/shows"
 
     #Fetching all movies from JSON placeholder
     def get_all_movies(self):
