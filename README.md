@@ -25,4 +25,3 @@ Python 3.8.+
 - pip install requests
 - pip install pymongo
 
-[My text](https://docs.readme.com/docs/linking-to-pages)
