@@ -10,7 +10,7 @@ The server operates against 3 data sources
 
 The server consists of 4 layers:
 1. Main - The module that is the first to receive API calls
-2. Routes layer - The modules the API calls are refered to from the main module
+2. Routes layer - The modules the API calls are referred to from the main module
 3. Business Logic Layer - The modules in which the API calls are processed, and then directed to the data layers.
 4. Data layers - The modules that are called by the business logic modules in order to directly connect with Mongo Data base and JSON place holder web service
 
